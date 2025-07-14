@@ -1,0 +1,101 @@
+_,Id,litify_pm__Display_Name__c,litify_pm__Client__r,litify_pm__Client__r.bis_Full_Formatted_Name__c,RecordType,RecordType.Name,bis_Case_Type__c,litify_pm__Status__c,Case_Stage__c,Case_Sub_Stage__c,litify_pm__Open_Date__c,litify_pm__Closed_Date__c,Primary_Legal_Assistant__r,bis_Attorney_Name__c,Primary_Legal_Assistant__r.Name
+[litify_pm__Matter__c],2ed7148386a56d1db9,Morgan Brown,[Account],Morgan Taylor,[RecordType],Billable Matter,WC WC-IN-HOUSE,Closed,Active,,7/21/23,8/31/23,,Taylor Miller,Riley Lee
+[litify_pm__Matter__c],77934fca56ba4bd509,Avery Taylor,[Account],Jordan Johnson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE MINOR,Closed,Closed,,7/21/23,9/22/23,,Riley Wilson,Morgan Brown
+[litify_pm__Matter__c],34a706be1613efd297,Avery Wilson,[Account],Avery Wilson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Pre-Lit Settlement,,7/25/23,3/6/24,,Morgan Taylor,Riley Brown
+[litify_pm__Matter__c],366b94b5409a51fb68,Morgan Davis,[Account],Jordan Johnson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/22/23,9/8/23,,Taylor Davis,Morgan Miller
+[litify_pm__Matter__c],e804667b98067fa9ea,Morgan Smith,[Account],Alex Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/22/23,8/31/23,,Jordan Davis,Avery Smith
+[litify_pm__Matter__c],ef911165c148f2a077,Riley Davis,[Account],Casey Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/24/23,12/7/23,,Jamie Smith,Taylor Taylor
+[litify_pm__Matter__c],1183a7eb188081cec9,Taylor Wilson,[Account],Taylor Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/22/23,9/8/23,,Riley Miller,Alex Davis
+[litify_pm__Matter__c],5751485a59c7062197,Alex Davis,[Account],Taylor Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Pre-Lit Settlement,,7/22/23,1/22/24,,Riley Lee,Alex Taylor
+[litify_pm__Matter__c],e94b89a4e1ce6e8626,Morgan Smith,[Account],Morgan Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/23/23,4/3/24,,Riley Wilson,Taylor Johnson
+[litify_pm__Matter__c],0ab59367dd16c0a1e9,Alex Lee,[Account],Riley Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Pre-Lit Settlement,,7/24/23,6/7/24,,Casey Johnson,Jamie Smith
+[litify_pm__Matter__c],9e5535c1c9b63a398a,Taylor Davis,[Account],Jamie Miller,[RecordType],Billable Matter,WC WC-IN-HOUSE,Closed,Pre-Lit Settlement,,7/24/23,11/28/23,,Jamie Davis,Taylor Lee
+[litify_pm__Matter__c],6af0fcf9440282bc40,Casey Wilson,[Account],Jamie Johnson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/24/23,12/15/23,,Avery Davis,Casey Johnson
+[litify_pm__Matter__c],1ec91943950517b056,Jamie Brown,[Account],Alex Taylor,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Pre-Lit Settlement,,7/24/23,6/7/24,,Taylor Smith,Morgan Taylor
+[litify_pm__Matter__c],ef4be5d3ecef2a5c92,Riley Smith,[Account],Riley Taylor,[RecordType],Billable Matter,PI OTHER-IN-HOUSE,Closed,Closed,,7/24/23,8/31/23,,Casey Taylor,Morgan Lee
+[litify_pm__Matter__c],aad3ac4bfbb1bbcbc2,Morgan Brown,[Account],Morgan Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/24/23,9/11/23,,Taylor Miller,Taylor Brown
+[litify_pm__Matter__c],3e677272a96211f001,Jamie Wilson,[Account],Riley Miller,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,1/18/23,10/17/23,,Taylor Lee,Jamie Taylor
+[litify_pm__Matter__c],6836528f0c4cecb81f,Jordan Wilson,[Account],Morgan Brown,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,3/30/23,2/1/24,,Jordan Taylor,Riley Davis
+[litify_pm__Matter__c],e5a2d75ad1e505774e,Jordan Johnson,[Account],Casey Davis,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,2/3/23,8/31/23,,Alex Davis,Casey Wilson
+[litify_pm__Matter__c],b2f7c045dd10f0b8d5,Jamie Davis,[Account],Casey Taylor,[RecordType],Billable Matter,WC WC-IN-HOUSE,Closed,Closed,,8/21/23,4/3/24,,Alex Miller,Jordan Davis
+[litify_pm__Matter__c],2d699edaaf443cf124,Jordan Brown,[Account],Morgan Lee,[RecordType],Billable Matter,WC WC-IN-HOUSE,Closed,Closed,,7/12/23,7/19/23,,Alex Taylor,Alex Wilson
+[litify_pm__Matter__c],c169a853aa02f4ca21,Casey Wilson,[Account],Casey Smith,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,2/27/23,8/7/23,,Casey Smith,Avery Miller
+[litify_pm__Matter__c],b74142385af78b3cbf,Alex Smith,[Account],Casey Miller,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,2/2/23,1/16/24,,Jordan Lee,Avery Brown
+[litify_pm__Matter__c],007e013ad0a1e8864f,Jordan Wilson,[Account],Morgan Davis,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,4/26/23,1/9/24,,Alex Smith,Morgan Taylor
+[litify_pm__Matter__c],e58b314d001390ef2d,Casey Taylor,[Account],Casey Wilson,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,2/14/23,1/16/24,,Alex Smith,Taylor Wilson
+[litify_pm__Matter__c],bfc5420982bb72ccf9,Avery Wilson,[Account],Taylor Wilson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/24/23,7/3/24,,Taylor Taylor,Morgan Johnson
+[litify_pm__Matter__c],73a5e540a6aa01fe8b,Jordan Smith,[Account],Morgan Taylor,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/27/23,6/4/24,,Avery Wilson,Jamie Lee
+[litify_pm__Matter__c],fca53788bbe7babe7c,Alex Smith,[Account],Jordan Smith,[RecordType],Personal Injury,PI IN-HOUSE LITIGATION,Settled,Pre-Lit Settlement,,7/24/23,2/15/24,,Riley Lee,Jamie Wilson
+[litify_pm__Matter__c],3539848e2bddf8cfc9,Casey Taylor,[Account],Alex Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/24/23,3/6/24,,Jordan Miller,Jamie Miller
+[litify_pm__Matter__c],64e250bfb22f60c869,Avery Miller,[Account],Jordan Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/25/23,3/21/24,,Taylor Johnson,Jamie Davis
+[litify_pm__Matter__c],e37e7b99d974a39400,Taylor Wilson,[Account],Alex Brown,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,7/25/23,5/15/24,,Morgan Wilson,Avery Wilson
+[litify_pm__Matter__c],8dcd420a00b5aec414,Jamie Brown,[Account],Jordan Taylor,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/25/23,7/15/24,,Jamie Brown,Jamie Taylor
+[litify_pm__Matter__c],5aadaa3050ea6a568f,Taylor Miller,[Account],Casey Johnson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/25/23,7/15/24,,Alex Lee,Taylor Wilson
+[litify_pm__Matter__c],f7bb5c9a18692dce4c,Avery Taylor,[Account],Casey Lee,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,7/25/23,2/1/24,,Morgan Wilson,Casey Johnson
+[litify_pm__Matter__c],859a8ff0620cdf2a91,Taylor Lee,[Account],Taylor Davis,[RecordType],Billable Matter,WC WC-IN-HOUSE,,,,7/25/23,8/9/23,,Alex Taylor,Alex Johnson
+[litify_pm__Matter__c],70424f95d97f000451,Jordan Lee,[Account],Riley Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/25/23,9/5/23,,Jordan Wilson,Jamie Wilson
+[litify_pm__Matter__c],e32eb04ab9a1b0e34c,Riley Johnson,[Account],Avery Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Active,Active,,7/26/23,9/22/23,,Riley Smith,Jamie Wilson
+[litify_pm__Matter__c],1151e46b3d085e77fd,Avery Brown,[Account],Jordan Wilson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/26/23,7/9/24,,Riley Johnson,Jordan Wilson
+[litify_pm__Matter__c],50f8affb82df40fddd,Riley Taylor,[Account],Morgan Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/26/23,7/3/24,,Taylor Wilson,Jordan Davis
+[litify_pm__Matter__c],977dd5fc464ecf17f8,Morgan Wilson,[Account],Jamie Wilson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE MINOR,Closed,Closed,,7/26/23,7/3/24,,Riley Miller,Jamie Taylor
+[litify_pm__Matter__c],8fcad37253000c9f00,Casey Lee,[Account],Casey Smith,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/26/23,5/3/24,,Avery Davis,Jordan Taylor
+[litify_pm__Matter__c],35fef075ed2d9a2963,Morgan Brown,[Account],Riley Johnson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,In Negotiation,In Negotiation,,7/26/23,3/21/24,,Morgan Johnson,Riley Brown
+[litify_pm__Matter__c],8ed64577e76bed2205,Morgan Lee,[Account],Jordan Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/26/23,1/5/24,,Jamie Johnson,Jordan Taylor
+[litify_pm__Matter__c],c3c6bb368e3c9139e2,Riley Johnson,[Account],Avery Davis,[RecordType],Personal Injury,PI OTHER-IN-HOUSE MINOR,Closed,Closed,,7/26/23,1/15/24,,Avery Miller,Taylor Lee
+[litify_pm__Matter__c],673ca4bb79a71fc342,Taylor Davis,[Account],Jamie Lee,[RecordType],Personal Injury,PI OTHER-IN-HOUSE MINOR,Closed,Closed,,7/26/23,1/15/24,,Morgan Brown,Avery Miller
+[litify_pm__Matter__c],89bc1e3240bfe1bad3,Riley Miller,[Account],Jamie Davis,[RecordType],Personal Injury,PI OTHER-IN-HOUSE MINOR,Closed,Closed,,7/26/23,1/15/24,,Taylor Davis,Taylor Davis
+[litify_pm__Matter__c],eb70ffea9f8b081bf4,Avery Smith,[Account],Morgan Brown,[RecordType],Personal Injury,PI OTHER-IN-HOUSE MINOR,Closed,Closed,,7/26/23,9/14/23,,Morgan Lee,Morgan Johnson
+[litify_pm__Matter__c],0ee9af3f329ec31a2d,Avery Brown,[Account],Riley Smith,[RecordType],Personal Injury,PI IN-HOUSE TO CO-COUNSEL LIT-IA,In Litigation,In Litigation,,7/26/23,5/21/24,,Jamie Miller,Casey Davis
+[litify_pm__Matter__c],3562961be7da8e0ef9,Avery Wilson,[Account],Alex Smith,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/27/23,2/6/24,,Avery Brown,Casey Johnson
+[litify_pm__Matter__c],cdcb0514b426baae37,Casey Miller,[Account],Jamie Smith,[RecordType],Billable Matter,WC WC-IN-HOUSE,Closed,Closed,,8/8/23,11/20/23,,Alex Wilson,Alex Johnson
+[litify_pm__Matter__c],47c3753e15bf2d9514,Alex Johnson,[Account],Taylor Smith,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Active,Active,,7/27/23,9/5/23,,Alex Davis,Casey Davis
+[litify_pm__Matter__c],2c6c2331d2293777ce,Riley Lee,[Account],Casey Taylor,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,8/8/23,2/9/24,,Alex Miller,Alex Davis
+[litify_pm__Matter__c],83be928fc47b006db6,Casey Wilson,[Account],Morgan Smith,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Active,Active,,7/27/23,9/5/23,,Avery Lee,Taylor Wilson
+[litify_pm__Matter__c],992e2c8ab89f3d41c6,Avery Taylor,[Account],Taylor Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/27/23,5/28/24,,Alex Johnson,Alex Wilson
+[litify_pm__Matter__c],64594c2d9f81c808c1,Avery Brown,[Account],Jordan Wilson,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,7/27/23,1/18/24,,Jordan Davis,Morgan Taylor
+[litify_pm__Matter__c],41fdbaf1906e698c52,Jordan Wilson,[Account],Alex Taylor,[RecordType],Billable Matter,WC IN-HOUSE WC LIEN FILE,Active,Active,,7/27/23,1/22/24,,Morgan Johnson,Taylor Brown
+[litify_pm__Matter__c],fa8d5f75d3048b5780,Alex Miller,[Account],Taylor Brown,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/27/23,4/5/24,,Avery Johnson,Alex Johnson
+[litify_pm__Matter__c],6dd2bffe659a9f29d0,Morgan Davis,[Account],Jamie Johnson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/28/23,2/15/24,,Morgan Miller,Taylor Wilson
+[litify_pm__Matter__c],373b23bcf29452a442,Casey Johnson,[Account],Jamie Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/28/23,10/12/23,,Morgan Miller,Jordan Taylor
+[litify_pm__Matter__c],90692caa767c9901a9,Taylor Brown,[Account],Jordan Brown,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/28/23,10/25/23,,Avery Davis,Jordan Smith
+[litify_pm__Matter__c],3fdca6ddfbc41a5b37,Morgan Wilson,[Account],Jamie Johnson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/28/23,5/7/24,,Avery Johnson,Casey Johnson
+[litify_pm__Matter__c],06aab07dc58ed35233,Avery Johnson,[Account],Alex Davis,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,2/15/23,11/3/23,,Avery Smith,Casey Smith
+[litify_pm__Matter__c],9a96f5d9e28f8f4677,Avery Smith,[Account],Avery Johnson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,2/16/23,6/27/23,,Taylor Lee,Avery Lee
+[litify_pm__Matter__c],cfe22eedbf2b60aeaa,Casey Lee,[Account],Riley Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/28/23,12/7/23,,Riley Miller,Casey Lee
+[litify_pm__Matter__c],116059397f4c2a8391,Jamie Taylor,[Account],Jordan Taylor,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,8/14/23,2/14/24,,Jordan Johnson,Avery Davis
+[litify_pm__Matter__c],864cc48d4754a94ba8,Jordan Taylor,[Account],Riley Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/29/23,10/12/23,,Casey Lee,Alex Taylor
+[litify_pm__Matter__c],44106cc91f1a8dd772,Alex Smith,[Account],Riley Wilson,[RecordType],Personal Injury,PI MED MAL-IN-HOUSE DEATH,Closed,Closed,,7/29/23,8/31/23,,Taylor Wilson,Jordan Smith
+[litify_pm__Matter__c],3fc72fd5ef1a050731,Alex Wilson,[Account],Avery Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/29/23,1/16/24,,Jordan Smith,Alex Davis
+[litify_pm__Matter__c],f917856f5a2fb9380d,Jordan Lee,[Account],Riley Taylor,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/29/23,2/14/24,,Taylor Johnson,Jamie Miller
+[litify_pm__Matter__c],9d155c23b5cf63652b,Jamie Davis,[Account],Morgan Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/29/23,2/14/24,,Jamie Wilson,Casey Taylor
+[litify_pm__Matter__c],92ab21cead531ff262,Jordan Davis,[Account],Riley Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/29/23,1/25/24,,Alex Taylor,Casey Brown
+[litify_pm__Matter__c],3ce361410751636d6c,Jordan Brown,[Account],Taylor Taylor,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/29/23,7/15/24,,Riley Davis,Jamie Wilson
+[litify_pm__Matter__c],c808d96e2acab06b9c,Riley Taylor,[Account],Alex Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/30/23,12/6/23,,Alex Taylor,Morgan Johnson
+[litify_pm__Matter__c],edfba642e1b1b29a97,Taylor Davis,[Account],Taylor Smith,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,8/14/23,1/24/24,,Morgan Taylor,Casey Taylor
+[litify_pm__Matter__c],eabd969ff7de1d6043,Riley Wilson,[Account],Morgan Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,12/27/23,,Casey Wilson,Casey Smith
+[litify_pm__Matter__c],370832b2417475ad7e,Casey Taylor,[Account],Riley Davis,[RecordType],Billable Matter,PI OTHER-IN-HOUSE,Closed,Closed,,7/31/23,9/6/23,,Avery Lee,Jordan Smith
+[litify_pm__Matter__c],8320ae0807b91be49b,Taylor Johnson,[Account],Jamie Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,2/8/24,,Casey Smith,Avery Davis
+[litify_pm__Matter__c],71fe2faf562f19f26a,Casey Wilson,[Account],Morgan Smith,[RecordType],Billable Matter,PI OTHER-IN-HOUSE,Closed,Closed,,7/31/23,9/5/23,,Avery Johnson,Alex Miller
+[litify_pm__Matter__c],65db13646178cc3258,Morgan Smith,[Account],Jordan Johnson,[RecordType],Billable Matter,PI OTHER-IN-HOUSE,Closed,Closed,,7/31/23,9/8/23,,Jordan Johnson,Morgan Lee
+[litify_pm__Matter__c],a2276fe3062937241a,Avery Taylor,[Account],Riley Smith,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/31/23,9/5/23,,Jordan Lee,Jordan Brown
+[litify_pm__Matter__c],90336fad80a9b28145,Taylor Taylor,[Account],Riley Johnson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,5/3/24,,Riley Smith,Alex Lee
+[litify_pm__Matter__c],2991b68dd8132b8883,Jordan Davis,[Account],Alex Taylor,[RecordType],Personal Injury,PI AUTO-IN-HOUSE MINOR,Settled,Pre-Lit Settlement,,7/31/23,1/22/24,,Avery Lee,Jordan Miller
+[litify_pm__Matter__c],4eec45589c37dfe696,Jamie Johnson,[Account],Casey Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,7/25/24,,Casey Wilson,Jamie Brown
+[litify_pm__Matter__c],2dd4b20be9436b86e1,Riley Smith,[Account],Casey Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Active,Active,,7/31/23,9/18/23,,Jamie Miller,Morgan Taylor
+[litify_pm__Matter__c],586efeb193a437fecc,Taylor Wilson,[Account],Riley Davis,[RecordType],Billable Matter,WC WC-IN-HOUSE,Settled,Pre-Lit Settlement,,8/2/23,11/29/23,,Casey Brown,Casey Wilson
+[litify_pm__Matter__c],54a5c54f0443dbcf2b,Jamie Lee,[Account],Alex Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/31/23,10/12/23,,Morgan Lee,Riley Wilson
+[litify_pm__Matter__c],9966ccb6bee0d0748b,Jamie Brown,[Account],Avery Smith,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,1/25/24,,Jordan Lee,Avery Brown
+[litify_pm__Matter__c],55ace749dea4125cdd,Jamie Taylor,[Account],Jamie Brown,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,8/3/23,3/4/24,,Jamie Johnson,Riley Wilson
+[litify_pm__Matter__c],90c86db1d7b776a048,Jamie Wilson,[Account],Avery Smith,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,7/24/24,,Avery Johnson,Jordan Brown
+[litify_pm__Matter__c],836850b14b35ee6e64,Riley Smith,[Account],Avery Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,3/21/24,,Jordan Davis,Jamie Johnson
+[litify_pm__Matter__c],835d17ae8eadaffb98,Morgan Wilson,[Account],Riley Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,4/9/24,,Riley Wilson,Alex Lee
+[litify_pm__Matter__c],f37a21777ff7adbb59,Avery Wilson,[Account],Riley Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,5/28/24,,Jamie Davis,Taylor Smith
+[litify_pm__Matter__c],fba6f6bd4072a395a8,Riley Brown,[Account],Alex Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Closed,Closed,,7/31/23,9/7/23,,Jamie Davis,Alex Lee
+[litify_pm__Matter__c],68c0798fd16a4044fc,Taylor Lee,[Account],Taylor Brown,[RecordType],Personal Injury,PI AUTO-IN-HOUSE MINOR,Settled,Pre-Lit Settlement,,7/31/23,12/27/23,,Taylor Wilson,Jordan Smith
+[litify_pm__Matter__c],d6c7a4eab3431a453c,Jamie Lee,[Account],Jordan Miller,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,7/31/23,2/29/24,,Alex Johnson,Avery Smith
+[litify_pm__Matter__c],89c6471d1c4245e4b1,Alex Taylor,[Account],Taylor Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,8/1/23,7/9/24,,Jordan Johnson,Taylor Brown
+[litify_pm__Matter__c],42436f7df736323a74,Jamie Smith,[Account],Avery Davis,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,8/16/23,7/25/24,,Jamie Davis,Taylor Wilson
+[litify_pm__Matter__c],53ea10d9a11678731e,Alex Brown,[Account],Jamie Wilson,[RecordType],Personal Injury,PI CO-COUNSEL AUTO DEATH,Active,Active,,8/7/23,7/16/24,,Casey Taylor,Alex Brown
+[litify_pm__Matter__c],a7867b38e8d5223a26,Morgan Brown,[Account],Taylor Wilson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,8/1/23,4/10/24,,Riley Taylor,Riley Smith
+[litify_pm__Matter__c],a74f3f60341aee86d4,Alex Lee,[Account],Riley Lee,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,8/7/23,6/20/24,,Taylor Davis,Alex Taylor
+[litify_pm__Matter__c],f4be700a1d0df118f9,Jamie Wilson,[Account],Alex Wilson,[RecordType],Personal Injury,PI AUTO-IN-HOUSE,Settled,Pre-Lit Settlement,,8/1/23,4/12/24,,Avery Johnson,Riley Johnson

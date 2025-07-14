@@ -1,0 +1,23 @@
+# CrewAI Legal Assistant Requirements - Local Testing
+
+# Core CrewAI dependencies
+crewai==0.28.8
+crewai-tools==0.1.6
+
+# Database and data handling
+pandas>=1.5.0
+sqlalchemy>=2.0.0
+
+# Language model dependencies
+langchain>=0.1.0
+openai>=1.0.0
+
+# Utility libraries
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# For enhanced logging and monitoring
+loguru>=0.7.0
+
+# Web interface (for Streamlit version)
+streamlit>=1.28.0
